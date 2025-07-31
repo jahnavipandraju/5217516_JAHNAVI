@@ -1,0 +1,115 @@
+0 echo"this is
+   1 linux
+   2 training
+   3 for
+   4 notchup
+   5 july 2025"
+   6 echo "this is linux training for notchup july 2025"
+   7 printf"linux training"
+   8 printf "linux training"
+   9 printf "linux training\n"
+  10 printf "my shell is %s\n" $SHELL
+  11 seq 1 10
+  12 seq 1 3 10
+  13 seq 10 -1 1
+  14 seq 20 -2 0
+  15 seq -s "" 10
+  16 seq -s " " 5 10
+  17 seq -s 5 10
+  18 seq -s " " 5 3 50
+  19 rev <<< linux
+  20 rev <<< Linux
+  21 history
+  22 seq 1 10
+  23 date --date"2 years ago"
+  24 sudo apt install ncal
+  25 echo $?
+  26 false
+  27 echo $?
+28 ls
+  29 nano newfile
+  30 cd new
+  31 ls
+  32 mkdir new1 new2
+  33 mkdir new
+  34 cd new
+  35 mkdir new1 new2
+  36 ls
+  37 cd
+  38 cd -
+  39 mkdir -p d1/d2
+  40 ls
+41 cd d1
+  42 ls
+  43 ls -l
+  44 cd ..
+  45 cd
+  46 ls -l
+  47 ls -a
+  48 ls -R
+  49 nano demo
+  50 wc demo
+  51 touch newfile.txt
+  52 nano newfile.txt
+  53 cat newfile.txt
+  54 cat newfile.txt > output.txt
+  55 cat output.txt
+  56 cat -n demo
+  57 ls
+  58 mkdir training
+  59 cp newfile output.txt training
+  60 cd training
+  61 ls
+  62 cd
+  63 ls
+  64 ls -R
+  65 cp -r new training
+  66 ls
+  67 cd training
+68 ls
+  69 cd new
+  70 ls
+  71 cd
+  72 mv output.txt out
+  73 ls
+  74 mv output.txt out
+  75 ls
+  76 cd training
+  77 ls
+  78 vi sum.c
+  79 gcc sum.c && ./a.out
+  80 sudo apt install update
+  81 sudo apt install gcc
+  82 gcc ifelse.c
+  83 cd notchupfy26
+  84 cd notchupJul25
+  85 gcc ifelse.c
+  86 gcc 1 darray.c
+  87 cd ..
+  88 gcc 1 darray.c
+  89 ./a.out
+  90 sudo apt install update
+  91 sudo apt upgrade
+  92 exit
+  93 echo $SHELL
+  94 sudo apt install g++
+95 date; unam -r; whoami
+  96 date&&whoami
+  97 seq 1 10
+  98 uname -s
+  99 seq 1 3 10
+ 100 seq "" 5 3 15
+ 101 rev <<< linux training
+ 102 history
+ 103 history 10
+ 104 date --date"2 years ago"
+ 105 date
+ 106 man cat
+ 107 cd models
+ 108 ls
+ 109 cd
+ 110 ls
+ 111 ls -l
+ 112 ls -a
+ 113 ls -R
+ 114 history
